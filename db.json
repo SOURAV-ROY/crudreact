@@ -1,0 +1,84 @@
+{
+  "posts": [
+    {
+      "title": "Tiltle 1",
+      "body": "Body 1",
+      "publishedAt": "2021-02-24",
+      "id": "1"
+    },
+    {
+      "title": "Title 2",
+      "body": "Body 2",
+      "publishedAt": "2021-02-24",
+      "id": "TNO9RZd"
+    },
+    {
+      "title": "Title 3 Update",
+      "body": "Body 3 Update",
+      "publishedAt": "2021-02-25",
+      "id": "lkWZ0qP"
+    },
+    {
+      "title": "Porro ullamco est re",
+      "publishedAt": "2009-07-21",
+      "body": "Consequatur Et reru",
+      "id": "7JNYu1I"
+    },
+    {
+      "title": "Id repudiandae adip",
+      "publishedAt": "1992-01-14",
+      "body": "Maiores sint in ut o",
+      "id": "PMbB2w4"
+    },
+    {
+      "title": "Exercitation quasi q",
+      "publishedAt": "1998-03-23",
+      "body": "Omnis est ducimus a",
+      "id": "p3fegjj"
+    },
+    {
+      "title": "Laboriosam quia quo",
+      "publishedAt": "1974-06-21",
+      "body": "Tenetur voluptate et",
+      "id": "rPfml0M"
+    },
+    {
+      "title": "Velit blanditiis com",
+      "publishedAt": "1980-06-01",
+      "body": "Qui dignissimos beat",
+      "id": "8IdDUxh"
+    }
+  ],
+  "users": [
+    {
+      "name": "SOURAV",
+      "email": "sourav@gmail.com",
+      "id": "1"
+    },
+    {
+      "name": "Test User",
+      "email": "user@gmail.com",
+      "id": "U8jbCk2"
+    },
+    {
+      "name": "Roy Update",
+      "email": "roy@gmail.com",
+      "id": "VUq7ZKv"
+    },
+    {
+      "name": "Tanner Alston",
+      "email": "vaguvebufi@mailinator.com",
+      "id": "79u2QbV"
+    },
+    {
+      "name": "Dora Bruce",
+      "email": "rusarycap@mailinator.com",
+      "id": "TiTZOW2"
+    },
+    {
+      "name": "Ila Hampton",
+      "email": "fyhuzedi@mailinator.com",
+      "id": "DlBlb0A"
+    }
+  ]
+}
